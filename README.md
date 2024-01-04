@@ -1,4 +1,4 @@
-Dee J. Mann Personal Repository
+Dee J. Mann Personal Projects
 
 The projects here are primarily for practice and assignments through the course I am completing.
 
