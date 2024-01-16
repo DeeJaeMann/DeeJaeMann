@@ -14,10 +14,13 @@
 <div align="left">
 I am currently learning to be a Full Stack Developer
   <ul>
-  <li>📖 Languages Studying: Python, JavaScript, HTML, CSS, SQL, Perl, C#</li>
+  <li>📖Languages Studying: Python, JavaScript, HTML, CSS, SQL, Perl, C#</li>
   <li>:mailbox:How to reach me: <a href="https://www.linkedin.com/in/manndj/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
 </div>
+<hr>
+<h3>:fire: My Stats:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeJaeMann&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
 DeeJaeMann/DeeJaeMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
