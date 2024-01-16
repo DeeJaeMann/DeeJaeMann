@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <!---<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>--->
+  <img src="https://onedrive.live.com/embed?resid=BBA92F6C8A9B8063%2151441&authkey=%21AJv0ulgUOco66E8" width="75%" />
 </div>
 <hr>
 <h3>:technologist: About Me:</h3>
