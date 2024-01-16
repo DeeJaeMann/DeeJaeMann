@@ -1,6 +1,6 @@
-Dee J. Mann Personal Projects
+#Dee J. Mann Personal Projects
 
-The projects here are primarily for practice and assignments through the course I am completing.
+Various personal projects practicing Python, JavaScript, Perl and C#.
 
 
 <!---
