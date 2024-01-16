@@ -21,8 +21,6 @@ I am currently learning to be a Full Stack Developer
 <hr>
 <h3>:fire: My Stats:</h3>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DeeJaeMann&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeeJaeMann&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeJaeMann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
