@@ -14,7 +14,7 @@
 <div align="left">
 I am currently learning to be a Full Stack Developer
   <ul>
-  <li>📖Languages Studying: Python, JavaScript, HTML, CSS, SQL, Perl, C#</li>
+  <li>📖Languages Studying: Python, JavaScript, HTML</li>
   <li>:mailbox:How to reach me: <a href="https://www.linkedin.com/in/manndj/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
 </div>
