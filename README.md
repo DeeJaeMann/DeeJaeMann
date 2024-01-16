@@ -1,4 +1,4 @@
-#Dee J. Mann Personal Projects
+Dee J. Mann Personal Projects
 
 Various personal projects practicing Python, JavaScript, Perl and C#.
 
