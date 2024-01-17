@@ -22,6 +22,7 @@ I am currently learning to be a Full Stack Developer
 <hr>
 <h3>:fire: My Stats:</h3>
 <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<tbody border="0">
 <tr border="0">
 <td align="left" width="50%" border="0">
   
@@ -34,6 +35,7 @@ I am currently learning to be a Full Stack Developer
 
 </td>
 </tr>
+</tbody>
 </table>
 <!---
 DeeJaeMann/DeeJaeMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
