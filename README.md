@@ -21,11 +21,20 @@ I am currently learning to be a Full Stack Developer
 </div>
 <hr>
 <h3>:fire: My Stats:</h3>
-<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<tr border="0">
+<td align="left" width="50%" border="0">
   
-[![GitHub Streak](https://github-readme-streak-stats-delta-lyart.vercel.app?user=DeeJaeMann&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeJaeMann&layout=compact&theme=transparent&exclude_repo=github-readme-streak-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-delta-lyart.vercel.app?user=DeeJaeMann&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
-</div>
+</td>
+<td align="right" width="50%" border="0">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeJaeMann&layout=donut&langs_count=6&theme=transparent&exclude_repo=github-readme-streak-stats)](https://github.com/anuraghazra/github-readme-stats) 
+
+</td>
+</tr>
+</table>
 <!---
 DeeJaeMann/DeeJaeMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
