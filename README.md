@@ -1,4 +1,4 @@
-<h1>Dee J. Mann Personal Projects</h1>
+<h1 align="center">👋 Hello there!  I'm DJ</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/manndj/">
@@ -21,26 +21,25 @@ I am currently learning to be a Full Stack Developer
 </div>
 <hr>
 <h3>:fire: My Stats:</h3>
-<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
-<tbody border="0">
-<tr border="0">
-<td align="left" width="50%" border="0">
+<div align="center" valign="middle">
   
-[![GitHub Streak](https://github-readme-streak-stats-delta-lyart.vercel.app?user=DeeJaeMann&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeJaeMann&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-delta-lyart.vercel.app?user=DeeJaeMann&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
-</td>
-<td align="right" width="50%" border="0">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeJaeMann&layout=donut&langs_count=6&theme=transparent&exclude_repo=github-readme-streak-stats)](https://github.com/anuraghazra/github-readme-stats) 
 
-</td>
-</tr>
-</tbody>
-</table>
-<!---
-DeeJaeMann/DeeJaeMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+</div>
+<hr>
+<h3>🏆 Profile Trophies:</h3>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeeJaeMann&no_bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-Guide for ReadMe
-https://www.sitepoint.com/github-profile-readme/
---->
+</div>
+<hr>
+<h3>💻 Technologies:</h3>
+<div align="center">
+
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div
+
