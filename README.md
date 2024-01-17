@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there!  I'm DJ</h1>
 
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/manndj/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
