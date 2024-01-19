@@ -40,9 +40,7 @@ I am currently studying to be a Full Stack Developer
 <hr>
 <h3>💻 Technologies:</h3>
 <div align="center">
-
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=plastic&logo=openSUSE&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
+<a href="https://www.opensuse.org"/><img src="https://img.shields.io/badge/openSUSE-%2364B345?style=plastic&logo=openSUSE&logoColor=white" height=30 alt="OpenSuse Badge"/></a> <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white" height=30 alt="Perl Badge"/> <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height=30 alt="Python Badge"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height=30 alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white" height=30 alt="C Sharp Badge"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height=30 alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height=30 alt="CSS3 Badge"/>
 </div>
 
 
