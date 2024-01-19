@@ -35,7 +35,7 @@ I am currently studying to be a Full Stack Developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeeJaeMann&no_bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-<!---
+
 <hr>
 <h3>💻 Technologies:</h3>
 <div align="center">
@@ -43,5 +43,5 @@ I am currently studying to be a Full Stack Developer
 ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
---->
+
 
