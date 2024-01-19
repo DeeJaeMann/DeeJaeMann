@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there!  I'm DJ</h1>
+<h1 align="center">👋 Hello there!  My name is DJ</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manndj/">
