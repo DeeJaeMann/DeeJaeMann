@@ -17,8 +17,9 @@
 <div align="left">
 I am currently studying to be a Full Stack Developer
   <ul>
-  <li>📖 Languages Studying: Python, JavaScript, HTML</li>
-</ul>
+    <li>📖 Languages Studying: Python, JavaScript, HTML</li>
+    <li>🏊 You don't stop swimming when you get old.  You get old when you stop swimming!</li>
+  </ul>
 </div>
 <hr>
 <h3>:fire: My Stats:</h3>
