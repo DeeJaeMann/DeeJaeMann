@@ -15,9 +15,10 @@
 <hr>
 <h3>:technologist: About Me:</h3>
 <div align="left">
-I am currently studying to be a Full Stack Developer
+I recently graduated a Full-Stack Software Engineering program at Code Platoon!
   <ul>
-    <li>📖 Languages Studying: Python, JavaScript, HTML</li>
+    <li>📖 Languages Studied: Python, Javascript, HTML, CSS</li>
+    <li>💻Technologies Used: Django, Django Rest Framework, React, PostgreSQL</li>
     <li>🏊 You don't stop swimming when you get old.  You get old when you stop swimming!</li>
   </ul>
 </div>
