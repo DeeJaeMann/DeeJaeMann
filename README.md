@@ -8,8 +8,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manndj/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height=30 alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height=30 alt="LinkedIn Badge"/></a>
+  <a href="https://fullsplashdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" height=30 alt="Portfolio Badge" /></a>
 </div>
 
 <hr>
@@ -17,8 +18,9 @@
 <div align="left">
 I recently graduated a Full-Stack Software Engineering program at Code Platoon!
   <ul>
-    <li>📖 Languages Studied: Python, Javascript, HTML, CSS</li>
-    <li>💻Technologies Used: Django, Django Rest Framework, React, PostgreSQL</li>
+    <li>🔭 Currently Exploring: TypeScript, PlayWright, GitHub Actions
+    <li>📖 Languages Studied: Python, JavaScript, HTML, CSS</li>
+    <li>💻 Technologies Used: Django, Django Rest Framework, React, PyTest, Cypress, OpenAI, PostgreSQL</li>
     <li>🏊 You don't stop swimming when you get old.  You get old when you stop swimming!</li>
   </ul>
 </div>
