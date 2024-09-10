@@ -18,7 +18,7 @@
 <div align="left">
 I recently graduated a Full-Stack Software Engineering program at Code Platoon!
   <ul>
-    <li>🔭 Currently Exploring: C Sharp, Unity, Blazor, GitHub Actions
+    <li>🔭 Currently Exploring: C Sharp, ASP.Net, Blazor, GitHub Actions
     <li>📖 Languages Studied: Python, JavaScript, HTML, CSS</li>
     <li>💻 Technologies Used: Django, Django Rest Framework, React, PyTest, Cypress, OpenAI, PostgreSQL</li>
     <li>🏊 You don't stop swimming when you get old.  You get old when you stop swimming!</li>
