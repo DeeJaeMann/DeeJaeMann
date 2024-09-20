@@ -16,7 +16,7 @@
 <hr>
 <h3>:technologist: About Me:</h3>
 <div align="left">
-I recently graduated a Full-Stack Software Engineering program at Code Platoon!
+I recently graduated a Full-Stack Software Engineering program at Code Platoon! I am also a graduate of the MSSA Software Development Fundamentals program. My current goal is to bring my knowledge of .Net up to the same level as the MSSA Cloud Application Developer program.
   <ul>
     <li>🔭 Currently Exploring: C Sharp, ASP.Net, Blazor, GitHub Actions
     <li>📖 Languages Studied: Python, JavaScript, HTML, CSS</li>
